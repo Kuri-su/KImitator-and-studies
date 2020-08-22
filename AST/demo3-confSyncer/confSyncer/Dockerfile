@@ -1,5 +1,5 @@
 # step 0
-FROM golang:1.14.6-alpine3.11
+FROM golang:1.14.7-alpine3.11
 
 USER root
 LABEL maintainer="misaki.zhcy@gmail.com"
